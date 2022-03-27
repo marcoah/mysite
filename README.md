@@ -2,7 +2,7 @@
 primera app en django
 
 
-* Instrucciones
+## Instrucciones
 
 1. Verificar que esta instalado Django: python -m django --version
 2. Instalar Django: python -m pip install Django
