@@ -12,7 +12,7 @@ primera app en django
 Basado en el tutorial de la documentacion de (DJANGO)[https://docs.djangoproject.com/en/3.2/intro/tutorial01/] 
 
 
-Actualmente voy por https://docs.djangoproject.com/en/3.2/intro/tutorial04/
+Actualmente voy por https://docs.djangoproject.com/en/3.2/intro/tutorial05/
 
 Usuario
 marco:marcoa1*
